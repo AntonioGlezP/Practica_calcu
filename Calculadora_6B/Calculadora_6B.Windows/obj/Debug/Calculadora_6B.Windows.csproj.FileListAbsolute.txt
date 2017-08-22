@@ -1,0 +1,33 @@
+c:\users\alumno\documents\visual studio 2012\Projects\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.exe
+c:\users\alumno\documents\visual studio 2012\Projects\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2012\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.Properties.Resources.resources
+c:\users\alumno\documents\visual studio 2012\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.csproj.GenerateResource.Cache
+c:\users\alumno\documents\visual studio 2012\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.exe
+c:\users\alumno\documents\visual studio 2012\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Libreria.dll
+c:\users\alumno\documents\visual studio 2012\Projects\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Libreria.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.Form1.resources
+C:\Intel\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.exe.config
+C:\Intel\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.exe
+C:\Intel\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.pdb
+C:\Intel\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.exe
+C:\Intel\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.pdb
+C:\Intel\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Libreria.dll
+C:\Intel\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Libreria.pdb
+C:\Intel\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.csprojResolveAssemblyReference.cache
+C:\Intel\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.Form1.resources
+C:\Intel\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.Properties.Resources.resources
+C:\Intel\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.csproj.GenerateResource.Cache
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.exe.config
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.exe
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.pdb
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.exe
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.pdb
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Libreria.dll
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Libreria.pdb
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.csprojResolveAssemblyReference.cache
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.Form1.resources
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.Properties.Resources.resources
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.csproj.GenerateResource.Cache

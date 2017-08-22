@@ -1,0 +1,16 @@
+C:\Intel\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.exe.config
+C:\Intel\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.exe
+C:\Intel\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.pdb
+C:\Intel\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Libreria.dll
+C:\Intel\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Libreria.pdb
+C:\Intel\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.csprojResolveAssemblyReference.cache
+C:\Intel\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.exe
+C:\Intel\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.pdb
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.exe.config
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.exe
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.pdb
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.exe
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.pdb
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Libreria.dll
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Libreria.pdb
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.csprojResolveAssemblyReference.cache

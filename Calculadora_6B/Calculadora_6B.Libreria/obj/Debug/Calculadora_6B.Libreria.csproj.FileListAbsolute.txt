@@ -1,0 +1,15 @@
+c:\users\alumno\documents\visual studio 2012\Projects\Calculadora_6B\Calculadora_6B.Libreria\bin\Debug\Calculadora_6B.Libreria.dll
+c:\users\alumno\documents\visual studio 2012\Projects\Calculadora_6B\Calculadora_6B.Libreria\bin\Debug\Calculadora_6B.Libreria.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\Calculadora_6B\Calculadora_6B.Libreria\obj\Debug\Calculadora_6B.Libreria.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2012\Projects\Calculadora_6B\Calculadora_6B.Libreria\obj\Debug\Calculadora_6B.Libreria.dll
+c:\users\alumno\documents\visual studio 2012\Projects\Calculadora_6B\Calculadora_6B.Libreria\obj\Debug\Calculadora_6B.Libreria.pdb
+C:\Intel\Calculadora_6B\Calculadora_6B.Libreria\bin\Debug\Calculadora_6B.Libreria.dll
+C:\Intel\Calculadora_6B\Calculadora_6B.Libreria\bin\Debug\Calculadora_6B.Libreria.pdb
+C:\Intel\Calculadora_6B\Calculadora_6B.Libreria\obj\Debug\Calculadora_6B.Libreria.csprojResolveAssemblyReference.cache
+C:\Intel\Calculadora_6B\Calculadora_6B.Libreria\obj\Debug\Calculadora_6B.Libreria.dll
+C:\Intel\Calculadora_6B\Calculadora_6B.Libreria\obj\Debug\Calculadora_6B.Libreria.pdb
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Libreria\obj\Debug\Calculadora_6B.Libreria.csprojResolveAssemblyReference.cache
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Libreria\obj\Debug\Calculadora_6B.Libreria.dll
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Libreria\obj\Debug\Calculadora_6B.Libreria.pdb
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Libreria\bin\Debug\Calculadora_6B.Libreria.dll
+C:\6_Semestre\antonio\Calculadora_6B\Calculadora_6B.Libreria\bin\Debug\Calculadora_6B.Libreria.pdb
